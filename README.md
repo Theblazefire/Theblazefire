@@ -5,7 +5,8 @@
 [![Godot](https://skillicons.dev/icons?i=godot)](https://godotengine.org)
 [![Blender](https://skillicons.dev/icons?i=blender)](https://blender.org)
 [![Obsidian](https://skillicons.dev/icons?i=obsidian)](https://obsidian.md)
-[![Vegas Movie Studio](https://skillicons.dev/icons?i=vegaspro)](https://vegascreativesoftware.com)
+[![PrusaSlicer](https://img.shields.io/badge/PrusaSlicer-FF6600?style=for-the-badge&logo=prusa&logoColor=white)](https://prusa3d.com/prusaslicer)
+[![Vegas Movie Studio](https://img.shields.io/badge/Vegas%20Movie%20Studio-000000?style=for-the-badge&logo=vegas&logoColor=white)](https://vegascreativesoftware.com)
 
 *non-exhaustive list* 
 
