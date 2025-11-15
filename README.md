@@ -1,16 +1,22 @@
-## Hi there 👋
+## Yahallo!
+<div align="center">
 
-<!--
-**Theblazefire/Theblazefire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![c](https://skillicons.dev/icons?i=c)](https://github.com/Theblazefire/algoritmi-e-strutture-dati)
+[![Godot](https://skillicons.dev/icons?i=godot)](https://godotengine.org)
+[![Blender](https://skillicons.dev/icons?i=blender)](https://blender.org)
 
-Here are some ideas to get you started:
+*non-exhaustive list* 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Static Badge](https://img.shields.io/badge/Notes-f?style=for-the-badge&label=University&labelColor=000000&color=481F1F)](https://obsidian2web.vercel.app)
+
+</div>
+
+
+<details>
+<summary><h5>GitHub Stats</h5></summary> 
+<div align="center"> 
+
+![My Account Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=raven-s-soul&theme=transparent)![a pie diagram of programming languages by repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=raven-s-soul&theme=transparent)
+
+</div>
+</details>
