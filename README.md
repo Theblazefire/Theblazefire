@@ -1,9 +1,11 @@
-## Yahallo!
+## Hey there!
 <div align="center">
 
 [![c](https://skillicons.dev/icons?i=c)](https://github.com/Theblazefire/algoritmi-e-strutture-dati)
 [![Godot](https://skillicons.dev/icons?i=godot)](https://godotengine.org)
 [![Blender](https://skillicons.dev/icons?i=blender)](https://blender.org)
+[![Obsidian](https://skillicons.dev/icons?i=obsidian)](https://obsidian.md)
+[![Vegas Movie Studio](https://skillicons.dev/icons?i=vegaspro)](https://vegascreativesoftware.com)
 
 *non-exhaustive list* 
 
